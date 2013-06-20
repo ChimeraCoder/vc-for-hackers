@@ -1,0 +1,147 @@
+VC for Hackers
+hackNY Summer 2013
+20 Jun 2013
+
+
+Aditya Mukerjee
+Hacker-in-Residence, Quotidian Ventures
+
+http://www.adityamukerjee.net
+@chimeracoder
+
+
+* To Venture or Not To Venture?
+
+
+* Why raise venture?
+
+Some clues
+
+- You want to to grow very fast very quickly
+- You want to expand into new territory
+- Your main differentiator is the *market*
+- 10x growth is a failure
+- You forsee an exit in 5-10 years (or less)
+- You (and your cofounders) don't mind owning 20% or less of a company
+
+* Why not raise venture?
+
+Some clues
+
+- You are already profitable (or near profitable)
+- You have found a profitable business model that works
+- Your main differentiator is your *advantage*
+- 10x growth is a success
+- Your exit is 10+ years down the road
+- You (and your cofounders) want to own 100% of the company
+
+
+* So you want to raise money. Now what?
+
+* Different sources of investments
+- Bootstrapping (ie, 'founder investment')
+- Friends & Family ('FF', sometimes jokingly 'FFF')
+- Angel Investors
+- Venture Firms (Series A, B, etc.)
+
+These categories have gotten fuzzier in recent years
+
+* Angel Investors
+
+- Angel investors are wealthy individuals who invest *their own money*
+- Angels tend to be more involved with early-stage companies and provide mentorship and other resources
+- Angel investors _may_ be less concerned with ROI than institutional investors
+
+
+* Venture Firms
+
+- Venture firms are institutional investors who invest *others'* money
+- Venture firms raise money from limited partners (LPs)
+- Venture firms are expected to provide a substantial ROI to their investors
+- After returning this money, VCs receive *carried*interest* ('the carry')
+
+
+* Equity
+
+- Equity represents ownership of the company, just like public stock (NYSE)
+- Main difference (vs. NYSE/NASDAQ) is liquidity and dividends
+
+
+* Deciding on a valuation
+
+- Decide how much money the company is worth, based on market size and revenues
+- Decide how much money you want to accept
+- Take the ratio => that's how much equity you give up.
+
+It's so easy - can it really be so sensible?
+
+
+
+* Nope
+
+* Deciding on a valuation (in practice)
+
+- Decide how much money you want to raise
+- Investors decide how much equity (%) they need for that amount of money
+- Divide money by equity => that's your valuation
+- Be careful of *premoney* vs. *postmoney* valuations
+
+* Valuations are tough - let's go shopping! (for funds)
+
+* Convertible debt
+(ie, punting on a valuation)
+
+- Deciding on a valuation is tough, esp. for early-stage companies
+- Investors may want to commit money before they are ready to value the company
+- Converible debt is a *loan* which converts to equity (generally preferred stock) when another round is raised
+- Advantage for startups: Easier to negotiate
+- Advantage for investors: Discounted price on future round (ie, '20% discount uncapped')
+- Common in early rounds, but sometimes later rounds too (see Foursquare's Series D)
+
+
+* To cap or not to cap?
+
+* Capped & Uncapped Convertible Notes
+
+- Convertible notes can be *capped* or *uncapped*
+- Capped notes will cap the price that investors pay in subsequent rounds
+- Caps put an implicit valuation on the round, and a lower bound on investors' equity
+
+
+
+* Pro Rata
+
+* Pro Rata
+- Subsequent rounds of investing dilute existing investors
+- *Pro*rata* provides existing investors the right to purchase enough shares to maintain existing ownership
+- Some investors (e.g. Joanne Wilson) will refuse to invest without pro rata rights
+- Be careful of *super*pro*rata* rights - the right to double (or more) ownership in subsequent rounds
+
+
+* Giving It All Back: Vesting
+
+* Vesting
+
+- It is generally a bad idea to assign equity and options without a *vesting* process
+- Vesting spreads out stock earnings over four years (usually) and allows founders to earn them back
+- This addresses the problem of a 'missing founder' owning most of the company
+- Employee stock options are also typically vested
+- Upon merger/acquisition, vesting may be *accelerated*
+
+* Liquidation Preference
+
+- Stock may be *preferred* or *common*
+- Typically, investors receive preferred stock and employees receive common stock
+
+
+* Other Terms & Concepts
+
+- Transfer rights
+- Secondary sale
+
+
+
+* Futher Reading
+
+- _Venture_Deals_  by Brad Feld and Jason Mendelson
+- AVC (Fred Wilson's Blog): [[http://www.avc.com/]]
