@@ -4,11 +4,11 @@ VC for Hackers
 
 This presentation was given on 20 June 2013 for the [hackNY](http://hackny.org) fellows.
 
-Fully rendered slides are available on the [project page](http://chimeracoder.github.io/vc-for-hackers)
+Fully rendered slides are available on the [project page](http://chimeracoder.github.io/vc-for-hackers).
 
 
 
-More detailed instructions for generating these slides manually (and creating other presentations like it) is available at the [go.talks/present package documentation](http://godoc.org/code.google.com/p/go.talks/present)
+More detailed instructions for generating these slides manually (and creating other presentations like it) is available at the [go.talks/present package documentation](http://godoc.org/code.google.com/p/go.talks/present).
 
 License
 -----------
